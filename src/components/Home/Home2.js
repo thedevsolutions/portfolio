@@ -19,37 +19,20 @@ function Home2() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              Since I was a kid, I have loved and excelled in programming, mathematics, natural sciences, data analysis, electronics, and problem solving.
-              <br />
-              <br />I am experienced in programming languages including
-              <i>
-                <b className="purple"> Java, Python, C++, JavaScript</b>
-              </i>
-              , and SQL dialects including
-              <i>
-                <b className="purple"> SQL Server, Oracle PL/SQL, PostgreSQL, and MySQL</b>.
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">...placeholder </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  ....placeholder
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with
-              <i>
-                <b className="purple"> modern Javascript frameworks</b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Node.js and React.js</b>
-              </i>
+              <b className="purple">The DevSolutions </b> is a software
+              development company based in Lahore, Pakistan that is devoted to
+              providing innovative software solutions to startups, SMBs, and
+              large enterprises. Partnering with us will help you obtain a
+              competitive edge in the market through high-quality custom
+              development services. The most influential design, business, and
+              technology talents that exist in the business will be made
+              available to you. You demonstrate your idea and together we will
+              learn about the right audiences, test solutions, and execute them
+              based on the right standards. I and excelled in{" "}
+              <b className="purple">
+                programming, mathematics, natural sciences, data analysis,
+                electronics, and problem solving{" "}
+              </b>
             </p>
           </Col>
           <Col md={4} className="myAvatar">
